@@ -49,7 +49,6 @@ Lets say the design defines 2 different food types - Red (15 points) and Blue (2
 - Include a readme file in your repository which explains the design for your code and solution in details - name this file __Readme.md__
 - If you are using some external tools/assets - highlight this in your text file and explain why you used them and what would you have done if these were not available to use
 - Record a short 30-60second video/gif showing your game play and include the link to the video in the Readme file
-- Once complete submit this google form - http://bit.ly/2H0yEG9 along with the link to your github repository
 
 ## Good luck! Happy coding! 
 
